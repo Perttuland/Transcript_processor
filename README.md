@@ -27,7 +27,7 @@ Identify missing themes and expand the analysis to cover all bases.
 ### Phase 5: Consolidation
 Compile the analysis, add summaries, make final edits and export.
 
-![Process Diagram](./process.png)
+![Process Diagram](./Process.png)
 
 ## Features
 
